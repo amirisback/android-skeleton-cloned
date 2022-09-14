@@ -1,0 +1,3 @@
+[submodule "app/src/main/java/com"]
+	path = app/src/main/java/com
+	url = https://github.com/amirisback/android-skeleton-piece-java
